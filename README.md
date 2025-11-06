@@ -41,7 +41,7 @@ Currently working at a startup where I develop full-stack features, secure authe
 
 ### 📫 Contact
 📧 Email: **Abhishekch.here@gmail.com**  
-💼 LinkedIn: *(add link if you want)*
+💼 LinkedIn: *https://www.linkedin.com/in/abhishek-chauhan-1941a724a/*
 
 ---
 
